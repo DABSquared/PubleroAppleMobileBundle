@@ -23,7 +23,6 @@
         "symfony/yaml": ">=2.0.0",
         "doctrine/doctrine-bundle": ">=1.0.0",
         "stof/doctrine-extensions-bundle": ">=1.1.x-dev",
-        "publero/test": "dev-master"
     },
     "suggest": {
         "ext-curl": "*"
